@@ -1,9 +1,0 @@
-{
-  dealers {
-    items {
-      id
-      name
-      address
-    }
-  }
-}
